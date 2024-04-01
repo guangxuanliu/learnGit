@@ -1,0 +1,9 @@
+{type}({scope}): {subject}
+
+{body}
+
+{footer}
+
+# 提交信息，请修改上面各个字段，并去掉{}
+# 各个字段的含义，请参考：
+# https://gist.github.com/ericavonb/3c79e5035567c8ef3267
