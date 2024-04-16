@@ -18,3 +18,4 @@ add for stash
 测试git reset --hard
 测试git reset --hard
 测试通过路径来重置
+测试通过路径来重置
