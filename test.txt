@@ -15,3 +15,4 @@ add another sfd new new line.
 add for stash
 1
 测试git reset
+测试git reset --hard
